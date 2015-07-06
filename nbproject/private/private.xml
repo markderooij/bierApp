@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Apache24/htdocs/testLaravel/app/Http/Controllers/ProjectsController.php</file>
+            <file>file:/C:/Apache24/htdocs/testLaravel/resources/views/app.blade.php</file>
+            <file>file:/C:/Apache24/htdocs/testLaravel/app/Services/Pintlabs_Service_Brewerydb.php</file>
+            <file>file:/C:/Apache24/htdocs/testLaravel/database/migrations/2015_07_05_104151_create_projects_and_tasks_tables.php</file>
+            <file>file:/C:/Apache24/htdocs/testLaravel/app/Http/Controllers/BeersController.php</file>
+            <file>file:/C:/Apache24/htdocs/testLaravel/database/seeds/TasksTableSeeder.php</file>
+            <file>file:/C:/Apache24/htdocs/testLaravel/resources/views/projects/index.blade.php</file>
+            <file>file:/C:/Apache24/htdocs/testLaravel/app/Task.php</file>
+            <file>file:/C:/Apache24/htdocs/testLaravel/database/seeds/ProjectsTableSeeder.php</file>
+            <file>file:/C:/Apache24/htdocs/testLaravel/resources/views/projects/show.blade.php</file>
+            <file>file:/C:/Apache24/htdocs/testLaravel/app/Http/routes.php</file>
+            <file>file:/C:/Apache24/htdocs/testLaravel/app/Project.php</file>
+        </group>
+    </open-files>
+</project-private>
