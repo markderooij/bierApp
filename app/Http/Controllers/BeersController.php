@@ -65,9 +65,9 @@ class BeersController extends Controller {
 	 */
 	public function index()
 	{
-                echo '<pre>';
-                print_r($this->beers);
-                echo '</pre>';
+                //echo '<pre>';
+                //print_r($this->beers);
+                //echo '</pre>';
                 $beers = $this->beers;
 
                 return view('beers.index', compact('beers'));
